@@ -42,7 +42,7 @@ The remaining columns were filtered to check for anomalies and missing values we
 - cn/in <br/>
 This was done to because these columns were not going to be used in our analysis and thus not advisable to import them into Microsoft Power BI.
 
-After combining the first and second datasets and cleaning in Microsoft Excel, the number of columns were 16 and the number of rows were 5522 (including the header row)
+After combining the first and second datasets and cleaning in Microsoft Excel, the number of columns were 16 and the number of rows were 5522 (including the header row).
 ## Power Query
 Prior to loading the dataset into Power BI, it was transformed in Microsft Power Query <br/>
 
@@ -50,7 +50,7 @@ The Time column appeared as datetime so the data type was changed to "time" form
 
 A new column for "Cause" was added using Conditional Column feature in Power Query. This was composed of 5 categories namely: Pilot Error, Technical Failure, Weather, Attacked and Others(Those airplane crash where the cause was unknown, or crashed into objects, or crashed into the sea).
 
-The dataset was checked for duplicate rows and then loaded into Power BI for Visualization
+The dataset was checked for duplicate rows and then loaded into Power BI for Visualization.
 # Attributes of the data
 - Date: The date the airplane crash occured
 - Time: Local time in 24 hour fprmat
@@ -79,5 +79,5 @@ The following columns were also created using DAX:
 - NYear: A Year column to be used in the visuals
 - NMonth: A Month column to be used in the visuals
 
-Data categorization was used to categorize Country as Place and a Custom Shape Map file was imported into Power BI
+Data categorization was used to categorize Country as Place and a Custom Shape Map file was imported into Power BI.
 # Analysis
