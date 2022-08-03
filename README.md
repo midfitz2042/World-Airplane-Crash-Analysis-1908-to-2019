@@ -139,6 +139,38 @@ The trend of crash by month is also similar to that of fatality on air by month 
 ![image](https://user-images.githubusercontent.com/107150730/182684634-bc9101c1-7ceb-41a2-ba04-ddcf67e325ae.png)
 
 ## Operator
-Founded in 1923, Aeroflot, the flag carrier and largest airline of Russia (and formerly the Soviet Union), had the highest number of fatal crashes(179), with a total of 7,156 passengers dying in Aeroflot crashes. Most of the crash occurred during the soviet era and majority of the planes that crashed were old soviet models. This is followed closely by the US-Military with a total crash of . This is partly due to the harsh limits the US Military push their aircrafts during combat operations, and rescue missions
+Founded in 1923, Aeroflot, the flag carrier and largest airline of Russia (and formerly the Soviet Union), had the highest number of fatal crashes(179), with a total of 7,156 passengers dying in Aeroflot crashes. Most of the crash occurred during the soviet era and majority of the planes that crashed were old soviet models. This is followed closely by the US-Military with a total crash of . This is partly due to the harsh conditions in which these aircrafts operate and the limits they are pushed to during combat operations, and rescue missions.
 
-However, the Operator with the most fatalities involving ground victims is American Airlines with 2889 fatalities on ground. Part of this can be accounted for by the September 11, 2001 attack when two Boeing-767 belonging to American Airlines and United Airlines were hijacked and crashed into the World Trade Center leading to a combined death toll of 2750.
+![image](https://user-images.githubusercontent.com/107150730/182695979-6b418e62-69d4-4937-899c-143e42f2e873.png)
+
+However, the Operator with the most fatalities involving ground victims is American Airlines with 2889 fatalities on ground. Part of this can be accounted for by the September 11, 2001 attack when two Boeing-767 belonging to American Airlines and United Airlines respectively were hijacked and crashed into the World Trade Center leading to a combined death toll of 2750.
+
+![image](https://user-images.githubusercontent.com/107150730/182696917-9f18e356-c8ef-4e30-9dd0-75d91570b543.png)
+
+## Type
+The Douglas DC-3 is a propeller-driven airliner, which had a lasting effect on the airline industry in the 1930s to 1940s and World War II. It was born into a nascent airline industry when travelling by air was riskier. It accounted for 335 crashes and 4824 fatalities.
+
+![image](https://user-images.githubusercontent.com/107150730/182698088-05c49dd8-d935-4ec7-a537-d2c63a4e7681.png)
+
+However, the Boeing 767-223ER and Boeing B-767-222 account for the most fatalities on ground due to the 2001 terror attack on the World Trade Center, New York, USA claiming 2750 lives.
+## Location
+The United States accounts for 1407 crashes. This could be partly attributed to the weather and also the large air transport network within the US due to the large distance between cities. <br/>
+Russia accounts for 260 Crashes. This is largely due to the mountainous terrain and harsh weather. <br/>
+Brazil holds the spot for the 3rd country with the highest crash(194). This is partly due to lack of adherence  to safety regulations. It is followed closely by Colombia and Canada with 157 and 153 crashes respectively.
+
+![image](https://user-images.githubusercontent.com/107150730/182698585-1cb4898e-6e3e-4906-95a2-425f2046109d.png)
+
+What was to be one of the worst disasters in aviation history occurred as a result of a series of unfortunate events, starting with an explosion at Gran Canaria airport in Spain. This resulted in a number of flights being diverted to Tenerife Airport. As a result of dense fog, the absence of ground radar, and miscommunication, two Boeing 747s belonging to Pan American Airways and KLM collided with each other, claiming the lives of all 583 passengers on board in both the flights of which only 61 passengers from the Pan Amercan flight survived.
+
+![image](https://user-images.githubusercontent.com/107150730/182699283-046b83d2-c274-4584-8522-882f0f1a620e.png)
+
+Training Route accounted for the highest amount of crash(86)
+
+![image](https://user-images.githubusercontent.com/107150730/182700907-f3c8c78b-108b-4665-b3dd-9a9fc556ae93.png)
+
+## Cause
+Pilot Error accounted for 37.69% (1179) of Airplane crash followed closely by Weather and Technical Failure accounting for 29.76%(931) and 28.01%(876) respectively. Other causes of airplane crash not included in the charts include those that the causes were unknown, those that crashed into objects, those that crashed over the sea and those that vanished.
+
+![image](https://user-images.githubusercontent.com/107150730/182702051-8797da71-5290-4ec0-96e9-016ed0ce3bc7.png)
+
+
