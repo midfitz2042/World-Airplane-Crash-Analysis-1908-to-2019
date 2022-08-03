@@ -127,13 +127,18 @@ Since the first airplane crash in 1908, there was a gradual increase in air acci
 
 However the year 2001 accounts for the most fatalities on ground(2,891) which is largely due to the terror attack where two Boeing-767s were hijacked by terrorists and crashed into the World Trade Center, New York, USA claiming 2,750 lives.
 
-![image](https://user-images.githubusercontent.com/107150730/182673599-19dd73b4-f8ff-43d7-9f37-10dde16b52f5.png)
+![image](https://user-images.githubusercontent.com/107150730/182685070-e48642cc-fcab-44b6-a7d1-c767fa9af34c.png)
 
 ### By Month
 The trend of crash by month shows the highest peak in December(537 crashes) followed by January(512 crashes) and August(506 crashes) and higher number of crashes taking place in the second half of the year. These peaks are partly due to the bad weather towards the end and beginning of the year.
 
-![image](https://user-images.githubusercontent.com/107150730/182676419-791b4571-98f9-4bfb-a0d1-2eb2641309cb.png)
+![image](https://user-images.githubusercontent.com/107150730/182684230-62eeb478-ba43-4dce-97c8-1610da29dc96.png)
 
 The trend of crash by month is also similar to that of fatality on air by month showing most peaks in the second half of the year; This corresponds to the time in which most people travel either due to the holidays or vacations. The deadliest months being December (10,908 fatalities) followed closely by August and September with 10,563 and 10,533 fatalities respectively.
 
-![image](https://user-images.githubusercontent.com/107150730/182675879-d233ff01-f494-46d5-93e1-d58c941e1dbd.png)
+![image](https://user-images.githubusercontent.com/107150730/182684634-bc9101c1-7ceb-41a2-ba04-ddcf67e325ae.png)
+
+## Operator
+Founded in 1923, Aeroflot, the flag carrier and largest airline of Russia (and formerly the Soviet Union), had the highest number of fatal crashes(179), with a total of 7,156 passengers dying in Aeroflot crashes. Most of the crash occurred during the soviet era and majority of the planes that crashed were old soviet models. This is followed closely by the US-Military with a total crash of . This is partly due to the harsh limits the US Military push their aircrafts during combat operations, and rescue missions
+
+However, the Operator with the most fatalities involving ground victims is American Airlines with 2889 fatalities on ground. Part of this can be accounted for by the September 11, 2001 attack when two Boeing-767 belonging to American Airlines and United Airlines were hijacked and crashed into the World Trade Center leading to a combined death toll of 2750.
