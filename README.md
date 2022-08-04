@@ -91,10 +91,10 @@ The dataset was checked for duplicate rows and then loaded into Power BI for Vis
 # Visualization
 All the Visualization for this project were done in Microsoft Power BI <br/>
 
-[View Dashboard here](https://github.com/midfitz2042/World-Airplane-Crash-Analysis-1908-to-2019/blob/main/Dashboard_Airplane_Crash_Since_1908_BI_pdf.pdf) <br/>
+[View Dashboard here](https://github.com/midfitz2042/World-Airplane-Crash-Analysis-1908-to-2019/blob/main/Dashboard_Airplane_Crash_Since_1908_BI.pdf) <br/>
 [Interact with the Report here](https://app.powerbi.com/links/IRGGjx_u9r?ctid=a7c50249-c148-4b70-9b9c-6c4b157ec4f5&pbi_source=linkShare)
 
-![Dashboard_Airplane_Crash_Since_1908_BI_pdf_1](https://user-images.githubusercontent.com/107150730/182796471-da3e1ee7-9698-4475-afcb-eafd9298e2b2.jpg)
+![Dashboard_Airplane_Crash_Since_1908_BI_1](https://user-images.githubusercontent.com/107150730/182828105-99d73f6f-98fd-4dfe-a5c2-a11154269c99.jpg)
 
 Upon loading the dataset into Power BI, the following measures were created using DAX(Data Analysis Expressions). This was done to optimize performance:
 - Total Fatality on Air
