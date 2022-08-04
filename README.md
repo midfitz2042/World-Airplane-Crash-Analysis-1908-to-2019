@@ -92,6 +92,12 @@ The dataset was checked for duplicate rows and then loaded into Power BI for Vis
 - Summary: Brief description of the accident and cause if known <br/>
 # Visualization
 All the Visualization for this project were done in Microsoft Power BI <br/>
+
+View Dashboard here <br/>
+Interact with the Report here
+
+![Dashboard_Airplane_Crash_Since_1908_BI_pdf_1](https://user-images.githubusercontent.com/107150730/182796471-da3e1ee7-9698-4475-afcb-eafd9298e2b2.jpg)
+
 Upon loading the dataset into Power BI, the following measures were created using DAX(Data Analysis Expressions). This was done to optimize performance:
 - Total Fatality on Air
 - Total Fatality on Ground
@@ -183,3 +189,5 @@ Based on the findings of this analysis:
 - Airliners should beef up security to ensure safety of passengers and crew
 - Airliners should invest in better technologies to forecast weather events and control air traffic
 - Airliners should provide better safety measures during training and test flights
+
+Interact with the Report here
