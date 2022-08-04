@@ -1,10 +1,12 @@
 # World-Airplane-Crash-Analysis-1908-to-2019
+![image](https://user-images.githubusercontent.com/107150730/182790047-ba09eef4-bebd-4653-a018-68d7062c9803.png)
+
 As part of my capstone project for the #NG30DaysOfLearning program, I analyzed Airplane Crashes around the world from 1908 to 2019.
 # Introduction
-In June 2022, I participated in a learning program organized by Olarenwaju Oyinbooke titled #NG30DaysOfLearning. This is my Capstone
+In June 2022, I participated in a learning program organized by [Olarenwaju Oyinbooke](https://twitter.com/TheOyinbooke) titled #NG30DaysOfLearning. This is my Capstone
 project.
 In this project, we were asked analyzed a dataset containing data of airplane accidents involving civil, commercial and military 
-transport worldwide from 1908-09-17 to 2009-06-08:I went a step further and got another dataset that contained crashes from 2009 to 2019.
+transport worldwide from 1908-09-17 to 2009-06-08; I went a step further and got another dataset that contained crashes from 2009 to 2019.
 So I analyzed airplane crashes around the world from 1908 to 2019.
 # Problem Statement
 From the dataset provided, I would like to look at the trends in airplane crashes over the years, the airliners and operators that were
@@ -12,9 +14,9 @@ involved in these crash, the amount of people that died in these crash, the type
 of airplane crash and where these crashes occured.
 This analysis can help airliners take better safety precautions, educate pilots,beef up security and prevent future occurence.
 # Data Sourcing
-Both Datasets for this analysis were gotten from Kaggle
--First Dataset (1908-2009) from Kaggle
--Second Dataset (1908-2019) from Kaggle
+Both Datasets for this analysis were gotten from [Kaggle](https://www.kaggle.com/):
+- [First Dataset](https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908) (1908-09-17 to 2009-06-08) from Kaggle
+- [Second Dataset](https://www.kaggle.com/datasets/cgurkan/airplane-crash-data-since-1908?resource=download) (1908-09-17 to 2019-07-30) from Kaggle
 # Data Cleaning in Microsft Excel and Power Query
 ## Microsoft Excel
 The datasets were loaded into different excel workbooks, the original files were in .csv format so they were saved as .xlsx
@@ -117,7 +119,7 @@ Data categorization was used to categorize Country as Place and a Custom Shape M
 ## Key Indices
 From September 17,1908 to July 30,2019, there was a total of 5,521 crashes out of which there were no survivors in 3,687 of the crashes. There was a total of 153,837 people aboard the flights. The Fatality Rate was 73% with 112,332 people losing their lives. The Overall Fatality including ground victims amounted to 118,189 and the Total amount of suvivors was 41,505.
 
-![image](https://user-images.githubusercontent.com/107150730/182669875-0a2242d4-4a11-4362-bafb-048d2eeac10b.png)
+![image](https://user-images.githubusercontent.com/107150730/182783191-b69bdcda-fdff-4cc5-9fa9-f5381f73a2db.png)
 
 ## Time Trend
 ### By Year
@@ -127,7 +129,7 @@ Since the first airplane crash in 1908, there was a gradual increase in air acci
 
 However the year 2001 accounts for the most fatalities on ground(2,891) which is largely due to the terror attack where two Boeing-767s were hijacked by terrorists and crashed into the World Trade Center, New York, USA claiming 2,750 lives.
 
-![image](https://user-images.githubusercontent.com/107150730/182685070-e48642cc-fcab-44b6-a7d1-c767fa9af34c.png)
+![image](https://user-images.githubusercontent.com/107150730/182791891-4e526a97-cac5-47c9-bf20-e6c42ff0c6a8.png)
 
 ### By Month
 The trend of crash by month shows the highest peak in December(537 crashes) followed by January(512 crashes) and August(506 crashes) and higher number of crashes taking place in the second half of the year. These peaks are partly due to the bad weather towards the end and beginning of the year.
@@ -174,3 +176,10 @@ Pilot Error accounted for 37.69% (1179) of Airplane crash followed closely by We
 ![image](https://user-images.githubusercontent.com/107150730/182702051-8797da71-5290-4ec0-96e9-016ed0ce3bc7.png)
 
 
+# Recommendation
+Based on the findings of this analysis:
+- Airliners should put more resources into Pilot training and retraining
+- Airliners should also ensure strict adherence to safety protocols
+- Airliners should beef up security to ensure safety of passengers and crew
+- Airliners should invest in better technologies to forecast weather events and control air traffic
+- Airliners should provide better safety measures during training and test flights
