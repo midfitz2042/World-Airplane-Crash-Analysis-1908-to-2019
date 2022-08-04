@@ -1,10 +1,8 @@
 # World-Airplane-Crash-Analysis-1908-to-2019
 ![image](https://user-images.githubusercontent.com/107150730/182790047-ba09eef4-bebd-4653-a018-68d7062c9803.png)
 
-As part of my capstone project for the #NG30DaysOfLearning program, I analyzed Airplane Crashes around the world from 1908 to 2019.
 # Introduction
-In June 2022, I participated in a learning program organized by [Olarenwaju Oyinbooke](https://twitter.com/TheOyinbooke) titled #NG30DaysOfLearning. This is my Capstone
-project.
+In June 2022, I participated in a learning program organized by [**Olarenwaju Oyinbooke**](https://twitter.com/TheOyinbooke) titled #NG30DaysOfLearning. This is my Capstone project. <br/>
 In this project, we were asked analyzed a dataset containing data of airplane accidents involving civil, commercial and military 
 transport worldwide from 1908-09-17 to 2009-06-08; I went a step further and got another dataset that contained crashes from 2009 to 2019.
 So I analyzed airplane crashes around the world from 1908 to 2019.
@@ -14,7 +12,7 @@ involved in these crash, the amount of people that died in these crash, the type
 of airplane crash and where these crashes occured.
 This analysis can help airliners take better safety precautions, educate pilots,beef up security and prevent future occurence.
 # Data Sourcing
-Both Datasets for this analysis were gotten from [Kaggle](https://www.kaggle.com/):
+Both Datasets for this analysis were gotten from [**Kaggle**](https://www.kaggle.com/):
 - [First Dataset](https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908) (1908-09-17 to 2009-06-08) from Kaggle
 - [Second Dataset](https://www.kaggle.com/datasets/cgurkan/airplane-crash-data-since-1908?resource=download) (1908-09-17 to 2019-07-30) from Kaggle
 # Data Cleaning in Microsft Excel and Power Query
@@ -22,7 +20,7 @@ Both Datasets for this analysis were gotten from [Kaggle](https://www.kaggle.com
 The datasets were loaded into different excel workbooks, the original files were in .csv format so they were saved as .xlsx
 
 Both datasets were checked to ensure they had the same number of columns and contained similar data types. The columns from the Second
-(updated) dataset starting from the date 29-06-2009 to 30-7-2019 were then copied and pasted it into the First dataset after merging the workbooks.
+(updated) dataset starting from the date **29-06-2009** to **30-7-2019** were then copied and pasted it into the First dataset after merging the workbooks.
 
 ![moving work book](https://user-images.githubusercontent.com/107150730/182656098-b6a97d7b-2702-4414-8a92-5b3bc148d54f.jpg)
 
@@ -93,8 +91,8 @@ The dataset was checked for duplicate rows and then loaded into Power BI for Vis
 # Visualization
 All the Visualization for this project were done in Microsoft Power BI <br/>
 
-View Dashboard here <br/>
-Interact with the Report here
+[View Dashboard here](https://github.com/midfitz2042/World-Airplane-Crash-Analysis-1908-to-2019/blob/main/Dashboard_Airplane_Crash_Since_1908_BI_pdf.pdf) <br/>
+[Interact with the Report here](https://app.powerbi.com/links/IRGGjx_u9r?ctid=a7c50249-c148-4b70-9b9c-6c4b157ec4f5&pbi_source=linkShare)
 
 ![Dashboard_Airplane_Crash_Since_1908_BI_pdf_1](https://user-images.githubusercontent.com/107150730/182796471-da3e1ee7-9698-4475-afcb-eafd9298e2b2.jpg)
 
@@ -190,4 +188,4 @@ Based on the findings of this analysis:
 - Airliners should invest in better technologies to forecast weather events and control air traffic
 - Airliners should provide better safety measures during training and test flights
 
-Interact with the Report here
+[Interact with the Report here](https://app.powerbi.com/links/IRGGjx_u9r?ctid=a7c50249-c148-4b70-9b9c-6c4b157ec4f5&pbi_source=linkShare)
